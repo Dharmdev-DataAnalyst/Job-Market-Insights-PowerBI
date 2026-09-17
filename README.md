@@ -45,12 +45,16 @@ Data Visualization: Power BI (DAX, Interactive Slicers, Geospatial Mapping)
 
 6.case statement
 
-SQL TASKS:-
+## SQL TASKS:-
 
 1.Find top 5 Companies which is having highest Average rating.
+
 2.create a CTE table for Find the average base salary and average maximum salary for each location, and display only those locations where the average base salary is greater than certain amount.
+
 3.Write a stored procedure to extract the minimum and maximum years of experience from the experience column and update the min_exp and max_exp columns in the      DataAnalystJobsIndia table.
+
 4.create a Trigger table for inserting data into the Table.
+
 5.Create a View named as 'vw_joblisting' where maximum salary and base salary is not null.
 
 ## 📊 Dashboard Overview
