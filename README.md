@@ -12,7 +12,7 @@ Database & Querying: SQL (SQL Server) — Data cleaning, aggregation, and window
 
 Data Visualization: Power BI (DAX, Interactive Slicers, Geospatial Mapping)
 
-# In Python Performed:-
+## In Python Performed:-
 
 >Data cleaning|
 >ETL process done|
@@ -31,13 +31,18 @@ Data Visualization: Power BI (DAX, Interactive Slicers, Geospatial Mapping)
 >R2 score|
 >Mean_Squared_Error|
 
-# Used SQL Queries:-
+## Used SQL Queries:-
 
 1.CTE table creation
+
 2.Stored Procedure
+
 3.view creation
+
 4.Alter and Update
+
 5.Trigger creation
+
 6.case statement
 
 SQL TASKS:-
